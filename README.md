@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently studying on [Universidad de Alcalá de Henares](https://uah.es/en/)
 
-- 🌱 I’m currently learning **HTML, CSS and JS as a hobby**
+- 🌱 I’m currently learning **HTML, CSS and JS** as a hobby
 
 - 📫 How to reach me **davidabejonheras@gmail.com**
 
