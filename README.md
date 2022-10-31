@@ -3,11 +3,11 @@
 
 ## 🚀 About Me
 I'm a passionate Computer Science student learning Web Development as a hobby!
-- I'm studying at Universidad de Alcalá de Henares
+- I'm studying at <a href="https://uah.es/en/" target="_blank">**Universidad de Alcalá de Henares**</a>
 
 - 💬 Ask me about anything!
 
-- 📫 How to reach me davidabejonheras@gmail.com
+- 📫 How to reach me **davidabejonheras@gmail.com**
 
 
 
