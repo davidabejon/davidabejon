@@ -2,9 +2,9 @@
 
 
 ## 🚀 About Me
-he/him | 19 yo | Informatics Engineering | Athletics
+- 👨‍💻 he/him | 19 yo | Informatics Engineering | Athletics
 
-- 👨‍🎓 I'm studying at <a href="https://uah.es/en/" target="_blank">**Universidad de Alcalá de Henares**</a>
+- 👨‍🎓 Studying at <a href="https://uah.es/en/" target="_blank">**Universidad de Alcalá de Henares**</a>
 
 - 💬 Ask me about anything!
 
