@@ -9,7 +9,8 @@
 - 💬 Ask me about anything!
 
 - 📫 How to reach me **davidabejonheras@gmail.com**
-<a href="https://discordapp.com/users/326021063496433666"><img src="https://discord.c99.nl/widget/theme-2/326021063496433666.png"></a>
+
+[![david0897#7281](https://discord.c99.nl/widget/theme-2/326021063496433666.png)](https://discordapp.com/users/326021063496433666/
 
 
 ## 🛠 Skills
