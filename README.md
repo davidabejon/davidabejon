@@ -9,7 +9,7 @@
 - 💬 Ask me about anything!
 
 - 📫 How to reach me **davidabejonheras@gmail.com**
-
+<img src="https://discord.c99.nl/widget/theme-2/326021063496433666.png">
 
 
 ## 🛠 Skills
