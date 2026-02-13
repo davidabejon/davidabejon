@@ -134,8 +134,10 @@ david.connect();
 <img src="https://skillicons.dev/icons?i=html,css,react,vue,nodejs,tailwind,jquery,threejs,fastapi" height="40" alt="python logo" />
 
 ### Databases
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" height="40" alt="python logo" />
-<img src="https://imgs.search.brave.com/gRKvILMrDgke_MRZGRUhmtsn4AvLDNqpqzHu7Gaehkc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/YnJhbmRmZXRjaC5p/by9pZG5xbGZhNWF3/L3cvNDAwL2gvNDAw/L3RoZW1lL2Rhcmsv/aWNvbi5wbmc_Yz0x/YnhpZDY0TXVwN2Fj/emV3U0FZTVgmdD0x/NzUxNTkxMTE2NDYz" height=40 style="border-radius: 10px">
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" height="40" alt="python logo" />
+  <img src="https://imgs.search.brave.com/gRKvILMrDgke_MRZGRUhmtsn4AvLDNqpqzHu7Gaehkc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/YnJhbmRmZXRjaC5p/by9pZG5xbGZhNWF3/L3cvNDAwL2gvNDAw/L3RoZW1lL2Rhcmsv/aWNvbi5wbmc_Yz0x/YnhpZDY0TXVwN2Fj/emV3U0FZTVgmdD0x/NzUxNTkxMTE2NDYz" height=40 style="border-radius: 10px">
+</div>
 
 ### Tools
 <img src="https://skillicons.dev/icons?i=git,github,bitbucket,vscode,docker,vite,jenkins,linux,ubuntu" height="40" alt="python logo" />
