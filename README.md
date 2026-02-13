@@ -59,7 +59,7 @@ david.connect();
       <p align="center">A personal React-based portfolio featuring interactive 3D background to showcase projects and skills.</p>
       <div align="center">
         <a href="https://github.com/davidabejon/portfolio" target="_blank">
-          <img src="https://img.shields.io/badge/Ver_Proyecto-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="Ver Proyecto"/>
+          <img src="https://img.shields.io/badge/Check_Repo-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="Check the repo button"/>
         </a>
       </div>
     </td>
@@ -78,7 +78,7 @@ david.connect();
       <p align="center">A homebrew app that displays and controls Spotify playback on a Nintendo 3DS via a custom API backend/proxy.</p>
       <div align="center">
         <a href="https://github.com/davidabejon/spotify-3ds" target="_blank">
-          <img src="https://img.shields.io/badge/Ver_Proyecto-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="Ver Proyecto"/>
+          <img src="https://img.shields.io/badge/Check_repo-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="Check the repo button"/>
         </a>
       </div>
     </td>
@@ -99,7 +99,7 @@ david.connect();
       <p align="center">A project to explore global radio broadcasts and connect cultures via live streams from stations around the world.</p>
       <div align="center">
         <a href="https://github.com/davidabejon/connected-sounds" target="_blank">
-          <img src="https://img.shields.io/badge/Ver_Proyecto-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="Ver Proyecto"/>
+          <img src="https://img.shields.io/badge/Check_repo-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="Check the repo button"/>
         </a>
       </div>
     </td>
@@ -118,7 +118,7 @@ david.connect();
       <p align="center">Educational frontend recreation of Anilist using React.js powered by the Anilist API.</p>
       <div align="center">
         <a href="https://github.com/davidabejon/archive" target="_blank">
-          <img src="https://img.shields.io/badge/Ver_Proyecto-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="Ver Proyecto"/>
+          <img src="https://img.shields.io/badge/Check_repo-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="Check the repo button"/>
         </a>
       </div>
     </td>
